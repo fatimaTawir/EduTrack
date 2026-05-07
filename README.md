@@ -65,7 +65,11 @@ EduTrack/
 ```
 
 ## Screenshots
-> Add your screenshots here after taking them
+<img width="1099" height="734" alt="image" src="https://github.com/user-attachments/assets/d5c4f787-89d4-4cc9-a4c0-1cb940cf847e" />
+<img width="1100" height="734" alt="image" src="https://github.com/user-attachments/assets/52405acb-15bf-4167-b0e4-f63acd99dca1" />
+<img width="1105" height="731" alt="image" src="https://github.com/user-attachments/assets/f14318f1-fc98-4793-9e7e-8a6222a62f1e" />
+
+
 
 ## Author
 Built by [Fatna Tawir] — Software Engineering Student
